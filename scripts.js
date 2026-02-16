@@ -8,6 +8,7 @@
 const searchInput = document.querySelector("#searchbar > input")
 const searchButton = document.querySelector("#searchbar > button")
 
+const lookup = {"/":"/"}
 const engine = "google"
 const engineUrls = {
   google: "https://www.google.com/search?q={query}",
