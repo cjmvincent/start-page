@@ -66,7 +66,7 @@ const bookmarks = [
     bookmarks: [
       {
         label: "classlink",
-        url: "https://pixlr.com/x/"
+        url: "https://launchpad.classlink.com/bryan"
       },
       {
         label: "r/sysadmin",
