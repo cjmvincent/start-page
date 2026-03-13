@@ -1,8 +1,8 @@
 ![Screenshot of project](./example.png)
 
 
-** 🚀 Usage
-*** 🏡 As Home Page
+## 🚀 Usage
+### 🏡 As Home Page
 1. Fork this repo
 2. Enable the Github Pages service `Settings → GitHub Pages → Source [master branch] → Save`
 3. Set it as Home Page:
