@@ -104,15 +104,23 @@ const bookmarks = [
     ]
   },
   {
-    label: "~/misc",
+    label: "~/school",
     bookmarks: [
       {
-        label: "youtube",
-        url: "https://www.youtube.com/"
+        label: "brightspace",
+        url: "https://kennesaw.view.usg.edu/"
       },
       {
-        label: "pokemonshowdown",
-        url: "https://play.pokemonshowdown.com/"
+        label: "owlexpress",
+        url: "https://owlexpress.kennesaw.edu/"
+      },
+      {
+        label: "ksumail",
+        url: "https://outlook.office.com/"
+      },
+      {
+        label: "degreeworks",
+        url: "https://degreeworks.kennesaw.edu/"
       }
     ]
   }
