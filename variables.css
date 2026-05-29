@@ -1,27 +1,27 @@
 :root {
   /** colors */
-  --color-name: nord;
-  --color-bg-shade: #252A33;
-  --color-bg-base: #2E3440;
-  --color-bg-surface: #373E4D;
-  --color-bg-highlight: #40495A;
-  --color-fg-shade: #768CB2;
-  --color-fg-base: #A6B4CD;
-  --color-fg-surface: #D6DCE8;
-  --color-fg-highlight: #FFFFFF;
-  --color-primary-bg: #2C4948;
-  --color-primary-base: #579190;
-  --color-primary-fg: #9AC2C2;
-  --color-secondary-bg: #25394C;
-  --color-secondary-base: #4A7197;
-  --color-secondary-fg: #8BA9C6;
-  --color-palette-red: #BF616A;
-  --color-palette-green: #A3BE8C;
-  --color-palette-yellow: #EBCB8B;
-  --color-palette-blue: #5E81AC;
-  --color-palette-purple: #B48EAD;
-  --color-palette-cyan: #88C0D0;
-  --color-palette-orange: #D08770;
+  --color-name: tokyo-night;
+  --color-bg-shade: #0d0e17;
+  --color-bg-base: #212124;
+  --color-bg-surface: #1a1b26;
+  --color-bg-highlight: #24283b;
+  --color-fg-shade: #565f89;
+  --color-fg-base: #a9b1d6;
+  --color-fg-surface: #c0caf5;
+  --color-fg-highlight: #ffffff;
+  --color-primary-bg: #1e3a5f;
+  --color-primary-base: #7aa2f7;
+  --color-primary-fg: #b4c6fa;
+  --color-secondary-bg: #1a2e1a;
+  --color-secondary-base: #9ece6a;
+  --color-secondary-fg: #9ece6a;
+  --color-palette-red: #f7768e;
+  --color-palette-green: #9ece6a;
+  --color-palette-yellow: #e0af68;
+  --color-palette-blue: #7aa2f7;
+  --color-palette-purple: #9d7cd8;
+  --color-palette-cyan: #7dcfff;
+  --color-palette-orange: #ff9e64;
   
   /** general */
   --font-family: Quicksand;
@@ -30,7 +30,7 @@
 
   /** surface */
   --surface-maxWidth: 1200px;
-  --surface-shadow: 12px 12px 0px rgb(44, 73, 72), 24px 24px 0px rgb(42.25, 69, 73), 36px 36px 0px rgb(40.5, 65, 74), 48px 48px 0px rgb(38.75, 61, 75), 60px 60px 0px rgb(37, 57, 76);
+  --surface-shadow: 12px 12px 0px rgb(30, 58, 95), 24px 24px 0px rgb(22, 44, 78), 36px 36px 0px rgb(15, 32, 62), 48px 48px 0px rgb(10, 22, 48), 60px 60px 0px rgb(6, 14, 36);
   --surface-borderRadius: 0px;
 
   /** spacing */

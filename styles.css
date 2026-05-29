@@ -96,7 +96,7 @@ body {
  **/
 
 .surface > main > h1 {
-  color: var(--color-primary-fg);
+  color: var(--color-palette-orange);
   font-size: calc(var(--font-size) * var(--space-large));
   font-weight: 500;
   margin: 0 0 var(--space-large) 0;
