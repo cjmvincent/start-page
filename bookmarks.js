@@ -6,7 +6,7 @@
 
 const bookmarks = [
   {
-    label: "~/tech",
+    label: "./tech",
     bookmarks: [
       {
         label: "r/unixporn",
@@ -19,11 +19,15 @@ const bookmarks = [
       {
         label: "r/workspaces",
         url: "https://www.reddit.com/r/workspaces/"
+      },
+      {
+        label: "r/ergomechs",
+        url: "https://www.reddit.com/r/ErgoMechKeyboards/"
       }
     ]
   },
   {
-    label: "~/work",
+    label: "./work",
     bookmarks: [
       {
         label: "classlink",
@@ -40,7 +44,7 @@ const bookmarks = [
     ]
   },
   {
-    label: "~/dev",
+    label: "./dev",
     bookmarks: [
       {
         label: "github",
@@ -57,15 +61,11 @@ const bookmarks = [
       {
         label: "brew",
         url: "https://brew.sh/"
-      },
-      {
-        label: "winget",
-        url: "https://winget.run/"
       }
     ]
   },
   {
-    label: "~/school",
+    label: "./school",
     bookmarks: [
       {
         label: "brightspace",
