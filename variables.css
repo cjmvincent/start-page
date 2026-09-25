@@ -22,6 +22,7 @@
   --color-palette-purple: #9d7cd8;
   --color-palette-cyan: #7dcfff;
   --color-palette-orange: #ff9e64;
+  --color-palette-white: #ffffff;
   
   /** general */
   --font-family: Quicksand;
@@ -30,7 +31,7 @@
 
   /** surface */
   --surface-maxWidth: 1200px;
-  --surface-shadow: 12px 12px 0px rgb(30, 58, 95), 24px 24px 0px rgb(22, 44, 78), 36px 36px 0px rgb(15, 32, 62), 48px 48px 0px rgb(10, 22, 48), 60px 60px 0px rgb(6, 14, 36);
+  --surface-shadow: 12px 12px 0px rgb(30, 58, 95), 24px 24px 0px rgb(22, 44, 78), 36px 36px 0px rgb(15, 32, 62), 48px 48px 0px rgb(10, 22, 48);
   --surface-borderRadius: 0px;
 
   /** spacing */
